@@ -6,4 +6,4 @@ function pattern2(num){
         }console.log(row);
     }
 }
-pattern2(5);
+pattern2(4);
