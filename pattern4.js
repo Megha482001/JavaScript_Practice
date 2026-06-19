@@ -5,4 +5,4 @@ function pattern(num){
             row += i;
         } console.log(row);
     }
-} pattern(4);
+} pattern(5);
